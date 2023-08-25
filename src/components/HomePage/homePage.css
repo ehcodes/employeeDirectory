@@ -1,0 +1,8 @@
+.homePage{
+  border:2px solid orange;
+  padding:.5rem;
+  flex:1;
+}
+p {
+  color:rgba(0,0,0,.5)
+}

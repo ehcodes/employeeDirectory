@@ -1,0 +1,15 @@
+*{
+  box-sizing:border-box;
+}
+.app{
+  border:4px solid black;
+  padding:.5rem;
+  display: flex;
+  flex-direction: row nowrap;
+}
+.app h1{
+  font-size: 1.6rem;
+  padding:0;
+  margin:0;
+  text-align: center;
+}

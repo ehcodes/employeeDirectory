@@ -1,0 +1,38 @@
+.employeePage {
+  border: 2px solid brown;
+  padding: 0.5rem;
+  flex: 1;
+}
+.employeeInfoContainer {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 0.5rem 0;
+  border-radius: 20px;
+}
+.employeePageHeader {
+  display: flex;
+  align-items: center;
+}
+.employeeInfo {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+.employeeInfo:first-of-type {
+  border-top: 0;
+}
+.employeeInfo h2,
+.employeeInfo h3,
+.employeeInfo p {
+  margin: 0.1rem;
+}
+
+.employeePageHeader h2,
+.employeePageHeader p {
+  padding-left: 1rem;
+}
+
+.employeeInfo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+}

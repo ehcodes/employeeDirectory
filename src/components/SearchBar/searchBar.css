@@ -1,0 +1,12 @@
+.searchBar{
+  border:2px solid rgb(45, 208, 0);
+  padding:.5rem;
+  display: flex;
+  justify-content: center;
+}
+.searchBar input{
+  padding:.5rem;
+  width:100%;
+  border-radius:18px;
+  border:1px solid rgba(0,0,0,.2)
+}

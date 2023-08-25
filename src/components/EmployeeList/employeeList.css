@@ -1,0 +1,7 @@
+.employeeList{
+  border:2px solid violet;
+  padding:0 .5rem;
+  display: flex;
+  flex-direction: column;
+  gap:.5rem;
+}
